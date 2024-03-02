@@ -6,7 +6,7 @@ Welcome to my GitHub repository where I host my resume!
 
 You can download my resume in PDF format:
 
-[Download My Resume](link_to_your_resume.pdf)
+[Download My Resume](https://github.com/hamzadeif/resume/blob/main/Hamza_Deif_Resume.pdf)
 
 ## Contact
 
